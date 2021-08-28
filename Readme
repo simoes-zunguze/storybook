@@ -1,0 +1,5 @@
+# Install dependencies
+npm i express mongoose connect-mongo express-session express-handlebars dotenv method-override moment morgan passport passport-google-oauth20
+
+# Install dev dependencies
+npm i -D nodemon cross-env
